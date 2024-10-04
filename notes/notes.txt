@@ -1,0 +1,116 @@
+
+<-----------------------------class 1 ------------------------->
+date - 03/07/2024
+varibles -
+Varibles are used to store values.
+
+class1.cpp file
+Q -: Display Multiplication, Addition, Subtraction, Division of two numbers:-
+Q -: WAP in C++ To display the avarage of phone numbers:-
+Q -: WAP in C++ to display the cube:-
+
+
+<-----------------------------class 2 ------------------------->
+date - 07/08/2024
+class2.cpp file
+Q -: Write two numbers and find its addition, subtraction, miltiplication and division:-
+Q -: Read four numbers and find its average:-
+Q -: Read the Length and Breath .Find its area and parimeter of a ractrangle:-
+formula :-
+  area - l*b
+  parimeter - 2*(l+b)
+
+Q -: Read the side of the square and find its area and parameter:-
+formula :-
+  area = a*a
+  parimeter = 4*a
+
+Q -: Read three sides and height of a trangle and find its area and paremiter:-
+formula :-
+  area = 0.5*base*height
+  parimeter = a+b+c
+
+Q -:Read the redius of a circle and find its area and paremiter:-
+formula:-
+  float pi = 3.14
+  area = pi*r*r
+  parimeter = 2*pi*r
+
+Q -:Read principle , rate , time .Find its simple interest:-
+formula:-
+  (p*r*t)/100
+
+<-----------------------------class 3 ------------------------->
+Date - 10/08/2024
+class3.cpp file
+
+Conditional Statement---->
+if-else 
+
+Q -: Read two numbers and check which one is greater:-
+Q -: Read a number and check weather its even or odd:-
+Q -: Read a age and check weather its voter or non-voter:-
+Q -: Read the year and check weather its a leap year or not:-
+
+
+<-----------------------------class 4 ------------------------->
+Date - 12/08/2024
+class4.cpp file
+
+Nested if-else, Switch Statement
+
+Q -: Read three numbers and find which one is greater:-
+Q -: Read four numbers and find which one is greater:-
+Q -: Read marks of three subjects and find its total, percentage, and division(rank):-
+Q -: Enter a case and check weather its week day or not:-
+Q -: Enter a case and check weather its month or not:-
+
+<-----------------------------class 5 ------------------------->
+Date - 14/08/2024
+class5.cpp file
+
+Q -: Read a letter and check weather its vowel or consonent:-
+Q -: Read a number and check weather its child , teenager or adult.
+
+LOOP=>
+A loop is used to execute the Statement number of time, there are three types of loop:-
+i:for LOOP
+ii:while LOOP
+iii:do while LOOP
+
+for loop:
+Q -: print number from 1 to 10:-
+Q -: print number from 100 to 50:-
+Q -: print 10 times your name using for loop:-
+Q -: Read a number and find its factorial:-
+Q -: Display the even numbers from 1 to 20:-
+Q -: Display the odd numbers from 1 to 20:-
+
+<-----------------------------class 6 ------------------------->
+Date - 17/08/2024
+class6.cpp file
+
+while loop:
+Q -: print number from 1 to 10:-
+Q -: print number from 100 to 50:-
+Q -: print 10 times your name using for loop:-
+Q -: Read a number and find its factorial:-
+Q -: Display the even numbers from 1 to 20:-
+Q -: Display the odd numbers from 1 to 20:-
+
+do while loop:
+Q -: print number from 1 to 10:-
+Q -: Read a number and find its factorial:-
+Q -: Display the even numbers from 1 to 20:-
+Q -: Display the odd numbers from 1 to 20:-
+
+STRING-------->
+String is a group of sequnce and group of characters.....
+For using string function--> #include<string.h>
+
+Q -: Read a name and disply the name , name length ,name to uppercase, name to lowercase, and name to reverse:-
+Q -: Read two String and find its concatination.
+
+<-----------------------------class 7 ------------------------->
+
+Array are used to store multiple values insted of declearing each values. It is a fixed sized of similer data types stored in a contigious memory location.It can be used to store to store the collective data types such as int ,char etc...also derived a user defined data types such as pointer , structure
